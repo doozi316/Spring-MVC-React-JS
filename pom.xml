@@ -8,5 +8,16 @@
     <artifactId>SpringMvc</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <springframework.version>5.2.3.RELEASE</springframework.version>
+    </properties>
+    <dependencies>
+        <!--Spring mvc 프로젝트를 하기위해선 추가해야할 기본적인 dependency-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>${springframework.version}</version>
+        </dependency>
+    </dependencies>
 
 </project>
