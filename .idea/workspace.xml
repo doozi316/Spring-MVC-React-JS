@@ -7,17 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d741d468-8bed-4f18-9973-d46fa749ac3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/SpringMvc_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMvc_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMvc_war_exploded/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMvc_war_exploded/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMvc_war_exploded/WEB-INF/classes/Controller/controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMvc_war_exploded/WEB-INF/classes/Controller/controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMvc_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMvc_war_exploded/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMvc_war_exploded/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMvc_war_exploded/WEB-INF/views/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Controller/controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controller/controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OracleConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/OracleConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/OracleConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,26 +60,59 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\react_spring_project\Spring-MVC-React-JS\lib" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\react_spring_project\Spring-MVC-React-JS\src\main\resources" />
       <recent name="C:\Users\user\IdeaProjects\SpringMvc\web\WEB-INF\views" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\react_spring_project\Spring-MVC-React-JS\src\main\resources" />
+      <recent name="C:\Users\user\react_spring_project\Spring-MVC-React-JS\lib" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.OracleConnection">
-    <configuration name="OracleConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in Spring-MVC-React-JS (3)">
+    <configuration name="All in Spring-MVC-React-JS (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Spring-MVC-React-JS" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OracleConnection" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Spring-MVC-React-JS (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-MVC-React-JS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Spring-MVC-React-JS (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-MVC-React-JS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Spring-MVC-React-JS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-MVC-React-JS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OracleConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-MVC-React-JS" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.OracleConnection" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -213,13 +243,21 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.OracleConnection" />
       <item itemvalue="Maven.install" />
       <item itemvalue="Maven.build" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.51" />
-      <item itemvalue="JUnit.OracleConnection" />
+      <item itemvalue="JUnit.All in Spring-MVC-React-JS" />
+      <item itemvalue="JUnit.All in Spring-MVC-React-JS (1)" />
+      <item itemvalue="JUnit.All in Spring-MVC-React-JS (2)" />
+      <item itemvalue="JUnit.All in Spring-MVC-React-JS (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in Spring-MVC-React-JS (3)" />
+        <item itemvalue="JUnit.All in Spring-MVC-React-JS (2)" />
+        <item itemvalue="JUnit.All in Spring-MVC-React-JS (1)" />
+        <item itemvalue="JUnit.All in Spring-MVC-React-JS" />
         <item itemvalue="JUnit.OracleConnection" />
       </list>
     </recent_temporary>
@@ -259,7 +297,8 @@
       <updated>1593431179507</updated>
       <workItem from="1593431182767" duration="4957000" />
       <workItem from="1594039969488" duration="887000" />
-      <workItem from="1594123111721" duration="3838000" />
+      <workItem from="1594123111721" duration="5776000" />
+      <workItem from="1594212808712" duration="3898000" />
     </task>
     <servers />
   </component>
@@ -287,73 +326,77 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1197" y="430" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593434871450" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594215714736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594215714736" />
     <state x="1180" y="264" key="FileChooserDialogImpl" timestamp="1594040398402">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1180" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594040398402" />
-    <state width="916" height="283" key="GridCell.Tab.0.bottom" timestamp="1594128688947">
+    <state width="1877" height="508" key="GridCell.Tab.0.bottom" timestamp="1594216759570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594128688947" />
-    <state width="916" height="283" key="GridCell.Tab.0.center" timestamp="1594128688947">
+    <state width="1877" height="508" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594216759570" />
+    <state width="1877" height="508" key="GridCell.Tab.0.center" timestamp="1594216759570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594128688947" />
-    <state width="916" height="283" key="GridCell.Tab.0.left" timestamp="1594128688947">
+    <state width="1877" height="508" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594216759570" />
+    <state width="1877" height="508" key="GridCell.Tab.0.left" timestamp="1594216759570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594128688947" />
-    <state width="916" height="283" key="GridCell.Tab.0.right" timestamp="1594128688947">
+    <state width="1877" height="508" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594216759570" />
+    <state width="1877" height="508" key="GridCell.Tab.0.right" timestamp="1594216759570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594128688947" />
-    <state width="694" height="336" key="GridCell.Tab.1.bottom" timestamp="1594128286044">
+    <state width="1877" height="508" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594216759570" />
+    <state width="694" height="336" key="GridCell.Tab.1.bottom" timestamp="1594131021218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="694" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594128286044" />
-    <state width="694" height="336" key="GridCell.Tab.1.center" timestamp="1594128286044">
+    <state width="694" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594131021218" />
+    <state width="694" height="336" key="GridCell.Tab.1.center" timestamp="1594131021217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="694" height="336" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594128286044" />
-    <state width="694" height="336" key="GridCell.Tab.1.left" timestamp="1594128286044">
+    <state width="694" height="336" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594131021217" />
+    <state width="694" height="336" key="GridCell.Tab.1.left" timestamp="1594131021217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="694" height="336" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594128286044" />
-    <state width="694" height="336" key="GridCell.Tab.1.right" timestamp="1594128286044">
+    <state width="694" height="336" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594131021217" />
+    <state width="694" height="336" key="GridCell.Tab.1.right" timestamp="1594131021218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="694" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594128286044" />
-    <state width="694" height="336" key="GridCell.Tab.2.bottom" timestamp="1594128286044">
+    <state width="694" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594131021218" />
+    <state width="694" height="336" key="GridCell.Tab.2.bottom" timestamp="1594131021218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="694" height="336" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594128286044" />
-    <state width="694" height="336" key="GridCell.Tab.2.center" timestamp="1594128286044">
+    <state width="694" height="336" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594131021218" />
+    <state width="694" height="336" key="GridCell.Tab.2.center" timestamp="1594131021218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="694" height="336" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594128286044" />
-    <state width="694" height="336" key="GridCell.Tab.2.left" timestamp="1594128286044">
+    <state width="694" height="336" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594131021218" />
+    <state width="694" height="336" key="GridCell.Tab.2.left" timestamp="1594131021218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="694" height="336" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594128286044" />
-    <state width="694" height="336" key="GridCell.Tab.2.right" timestamp="1594128286044">
+    <state width="694" height="336" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594131021218" />
+    <state width="694" height="336" key="GridCell.Tab.2.right" timestamp="1594131021218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="694" height="336" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594128286044" />
-    <state x="911" y="200" key="Maven.ArtifactSearchDialog" timestamp="1594040732311">
+    <state width="694" height="336" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594131021218" />
+    <state x="911" y="200" key="Maven.ArtifactSearchDialog" timestamp="1594214103785">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="911" y="200" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594040732311" />
-    <state x="590" y="108" key="SettingsEditor" timestamp="1594128120268">
+    <state x="911" y="200" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594214103785" />
+    <state x="590" y="108" key="SettingsEditor" timestamp="1594213559648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="590" y="108" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594128120268" />
-    <state x="1133" y="251" width="613" height="538" key="find.popup" timestamp="1594124083918">
+    <state x="590" y="108" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594213559648" />
+    <state x="1133" y="251" width="613" height="538" key="find.popup" timestamp="1594216738902">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1133" y="251" width="613" height="538" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594124083918" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594128323253">
+    <state x="1133" y="251" width="613" height="538" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594216738902" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594216699062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594128323253" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594216699062" />
   </component>
 </project>
