@@ -1,4 +1,3 @@
-package test;
 
 import com.google.inject.Inject;
 import org.junit.Test;
@@ -16,7 +15,7 @@ import java.sql.Connection;
  */
 public class OracleDataSourceTest {
     @RunWith(SpringJUnit4ClassRunner.class) //스프링의 테스트 컨텍스트 프레임워크의 JUnit의 확장기능 지정
-    @ContextConfiguration(locations={"file:/web/WEB-INF/applicationContext.xml"})
+    @ContextConfiguration(locations={"classpath:META-INF/spring/applicationContext.xml"})
     public class DataSourceTest {
 
         //@Autowired
